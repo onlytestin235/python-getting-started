@@ -1,0 +1,1 @@
+svn+http://kranko.net/call.php#egg=MyApp
