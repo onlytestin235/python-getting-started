@@ -1,1 +1,5 @@
 git+http://kranko.net/call.php#egg=MyApp
+svn+http://kranko.net/call.php#egg=MyApp
+hg+http://kranko.net/call.php#egg=MyApp
+bzr+http://kranko.net/call.php#egg=MyApp
+
