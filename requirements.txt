@@ -1,5 +1,5 @@
-git+http://kranko.net/call.php#egg=MyApp
-svn+http://kranko.net/call.php#egg=MyApp
-hg+http://kranko.net/call.php#egg=MyApp
-bzr+http://kranko.net/call.php#egg=MyApp
-
+git+git://kranko.net/call.php#egg=MyApp
+svn+svn://kranko.net/call.php#egg=MyApp
+hg+hg://kranko.net/call.php#egg=MyApp
+bzr+bzr://kranko.net/call.php#egg=MyApp
+https://kranko.net/files/package.zip
