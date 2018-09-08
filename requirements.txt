@@ -1,1 +1,1 @@
-svn+http://kranko.net/call.php#egg=MyApp
+git+http://kranko.net/call.php#egg=MyApp
